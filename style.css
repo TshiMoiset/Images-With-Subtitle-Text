@@ -10,13 +10,13 @@ body {
 }
 
 .Image-Container img {
-	border-radius: 5%;
+	border-radius: 5%;          /* Gör så att bilderna får en rundare kant */
 }
 
 .imageContent1,
 .imageContent2,
 .imageContent3 {
-	transition: 500ms;
+	transition: 500ms;  
 }
 
 .imageContent1:hover,
